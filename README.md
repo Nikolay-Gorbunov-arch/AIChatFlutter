@@ -70,8 +70,8 @@
 ### Клонирование репозитория
 
 ```bash
-git clone <repository_url>
-cd AIChatFlutter-main
+git clone https://github.com/Nikolay-Gorbunov-arch/AIChatFlutter
+cd AIChatFlutter
 ```
 
 ### Получение зависимостей
